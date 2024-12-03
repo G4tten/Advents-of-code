@@ -32,4 +32,4 @@ class liste:
 
         print(sum(self.distanza))
 
-lista = liste("input.txt")
+lista = liste("2024/1/input.txt")

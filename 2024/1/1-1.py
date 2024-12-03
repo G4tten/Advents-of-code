@@ -6,7 +6,7 @@
 
 import numpy as np
 
-data = np.genfromtxt("input.txt", dtype=int)
+data = np.genfromtxt("2024/1/input.txt", dtype=int)
 
 colonna1 = []
 

@@ -8,7 +8,7 @@
 import numpy as np
 
 #apertura file
-f = open("input.txt", "r")
+f = open("2024/2/input.txt", "r")
 
 data = []
 

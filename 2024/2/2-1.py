@@ -13,7 +13,7 @@
 
 import numpy as np
 
-f = open("input_test.txt", "r")
+f = open("2024/2/input_test.txt", "r")
 
 data = []
 
