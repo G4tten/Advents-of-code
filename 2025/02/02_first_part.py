@@ -1,4 +1,4 @@
-with open("02_input.txt", "r") as f:
+with open("02_test.txt", "r") as f:
     testo = f.read()
     lista = testo.split(",")
 
